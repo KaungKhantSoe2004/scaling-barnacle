@@ -1,0 +1,266 @@
+{
+  "user": [
+    {
+      "name": "Kaung Khant Soe",
+      "email": "kaungkhants892@gmail.com",
+      "password": "kks",
+      "id": 1
+    },
+    {
+      "name": "Su Su Win",
+      "email": "susu892@gmail.com",
+      "password": "susu",
+      "id": 2
+    },
+    {
+      "name": "Htet Arkar Kyaw",
+      "email": "htet@gmail.com",
+      "password": "htet",
+      "id": 3
+    },
+    {
+      "name": "Cmaroyal",
+      "email": "cmaroyal92@gmail.com",
+      "password": "cnaroyal",
+      "id": 4
+    }
+  ],
+  "cartItems": [
+    {
+      "Title": "Percy Jackson and the Lightning Thief",
+      "Author": "Rick Riordan",
+      "qty": 9,
+      "img": "http://books.google.com/books/content?id=e3_VPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "price": 1,
+      "totalPrice": 9,
+      "id": 1
+    },
+    {
+      "Title": "Percy Jackson and the Sea of Monsters",
+      "Author": "Rick Riordan",
+      "qty": 15,
+      "img": "http://books.google.com/books/content?id=8yWqlAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "price": 8,
+      "totalPrice": 120,
+      "id": 4
+    },
+    {
+      "Title": "Batman: Damned",
+      "Author": "Brian Azzarello",
+      "qty": 4,
+      "img": "http://books.google.com/books/content?id=a1KuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 3,
+      "price": 4,
+      "totalPrice": 16,
+      "id": 5
+    },
+    {
+      "Title": "Batman and Philosophy",
+      "Author": "Mark D. White",
+      "qty": 3,
+      "img": "http://books.google.com/books/content?id=hf5f3r38P1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 3,
+      "price": 7,
+      "totalPrice": 21,
+      "id": 6
+    },
+    {
+      "Title": "2019 Daily Planner Funny Theme Grandma Plans Black White 384 Pages",
+      "Author": "Distinctive Journals",
+      "qty": 1,
+      "img": "http://books.google.com/books/content?id=dHNRvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "price": 8,
+      "totalPrice": 8,
+      "id": 7
+    },
+    {
+      "Title": "Champak English",
+      "Author": "Delhi Press Magazines",
+      "qty": 1,
+      "img": "http://books.google.com/books/content?id=TtSRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 1,
+      "price": 5,
+      "totalPrice": 5,
+      "id": 8
+    },
+    {
+      "Title": "Office 2019 All-in-One For Dummies",
+      "Author": "Peter Weverka",
+      "qty": 1,
+      "img": "http://books.google.com/books/content?id=ldhwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 1,
+      "price": 4,
+      "totalPrice": 4,
+      "id": 9
+    },
+    {
+      "Title": "Weekly & Monthly Planner 2019",
+      "Author": "Independently Published",
+      "qty": 1,
+      "img": "http://books.google.com/books/content?id=xaB7vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "price": 5,
+      "totalPrice": 5,
+      "id": 10
+    },
+    {
+      "Title": "Beetlejuice 2019-2020 Weekly Planner",
+      "Author": "Insight Editions",
+      "qty": 1,
+      "img": "http://books.google.com/books/content?id=-CIEwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "price": 3,
+      "totalPrice": 3,
+      "id": 11
+    }
+  ],
+  "favorites": [
+    {
+      "Title": "Percy Jackson's Greek Heroes",
+      "Author": "Rick Riordan",
+      "Date": "2015-08-18",
+      "img": "http://books.google.com/books/content?id=QenMoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "Title": "The Superman Files",
+      "Author": "Matthew Manning",
+      "Date": "2013-11-05",
+      "img": "http://books.google.com/books/content?id=g6ZSmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "Title": "Superman",
+      "Author": "Glen Weldon",
+      "Date": "2013-04-01",
+      "img": "http://books.google.com/books/content?id=TfvgwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "Title": "Superman (2018-) #23",
+      "Author": "Brian Michael Bendis",
+      "Date": "2020-07-07",
+      "img": "http://books.google.com/books/content?id=83bvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "Title": "Percy Jackson's Greek Heroes",
+      "Author": "Rick Riordan",
+      "Date": "2017-02-21",
+      "img": "http://books.google.com/books/content?id=PJJlvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "Title": "The Percy Jackson and the Olympians: Ultimate Guide",
+      "Author": "Rick Riordan",
+      "Date": "2010-01-18",
+      "img": "http://books.google.com/books/content?id=MImvPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "Title": "Harry Potter and the Deathly Hallows",
+      "Author": "J. K. Rowling",
+      "Date": "2007",
+      "img": "http://books.google.com/books/content?id=GZAoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "Title": "Harry Potter Hand Lettering",
+      "Author": "Jay Roeder",
+      "Date": "2021-01-19",
+      "img": "http://books.google.com/books/content?id=uEoiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 2,
+      "id": 13
+    },
+    {
+      "Title": "Percy Jackson and the Lightning Thief (Book 1)",
+      "Author": "Rick Riordan",
+      "Date": "2008-05-01",
+      "img": "http://books.google.com/books/content?id=ku9TsH3M1-YC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 2,
+      "id": 14
+    },
+    {
+      "Title": "Batman: Damned",
+      "Author": "Brian Azzarello",
+      "Date": "2019-09-10",
+      "img": "http://books.google.com/books/content?id=a1KuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 3,
+      "id": 15
+    },
+    {
+      "Title": "Batman and Philosophy",
+      "Author": "Mark D. White",
+      "Date": "2008-06-23",
+      "img": "http://books.google.com/books/content?id=hf5f3r38P1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 3,
+      "id": 16
+    },
+    {
+      "Title": "Beetlejuice 2019-2020 Weekly Planner",
+      "Author": "Insight Editions",
+      "Date": "2019-07-02",
+      "img": "http://books.google.com/books/content?id=-CIEwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "Title": "Swimming Is My Sport",
+      "Author": "Getthread 2019 Floral Planners",
+      "Date": "2019-01-07",
+      "img": "http://books.google.com/books/content?id=d6bfwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "Title": "2019 Daily Planner Funny Theme Grandma Plans Black White 384 Pages",
+      "Author": "Distinctive Journals",
+      "Date": "2018-12-05",
+      "img": "http://books.google.com/books/content?id=dHNRvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "Title": "Champak English",
+      "Author": "Delhi Press Magazines",
+      "Date": "2019-04-11",
+      "img": "http://books.google.com/books/content?id=TtSRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "Title": "Clementine 2019 Planner",
+      "Author": "Pk Planners",
+      "Date": "2018-12-23",
+      "img": "http://books.google.com/books/content?id=dRYlwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 1,
+      "id": 28
+    },
+    {
+      "Title": "Swimming Is My Sport",
+      "Author": "Getthread 2019 Floral Planners",
+      "Date": "2019-01-07",
+      "img": "http://books.google.com/books/content?id=d6bfwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 4,
+      "id": 29
+    },
+    {
+      "Title": "2019 Daily Planner Funny Theme Grandma Plans Black White 384 Pages",
+      "Author": "Distinctive Journals",
+      "Date": "2018-12-05",
+      "img": "http://books.google.com/books/content?id=dHNRvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "userId": 4,
+      "id": 30
+    }
+  ]
+}
